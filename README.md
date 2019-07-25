@@ -1,7 +1,9 @@
 # StringCalculator
 A calculator that takes in strings and applies them as numbers before returning the solution.
 
-## Instructions
+## Deployed Link: https://lukejhayes.github.io/StringCalculator/
+
+### Instructions
 
 Write a text based calculator. The calculator will take strings in this format:
 
